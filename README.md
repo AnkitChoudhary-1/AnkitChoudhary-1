@@ -35,8 +35,7 @@
 
 ### 📊 GitHub Stats
 
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnkitChoudhary-1&show_icons=true&theme=default)
-
+![Stats](https://github-readme-streak-stats.herokuapp.com?user=AnkitChoudhary-1&theme=default)
 ---
 
 📫 Reach me at: [LinkedIn](#) · [Email](#)
