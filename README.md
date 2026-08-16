@@ -9,7 +9,7 @@
 ### 🚀 About Me
 - 📱 Building production-grade **Android apps** with Kotlin & Jetpack Compose
 - 🔧 Backend experience with **Ktor** (Kotlin server-side)
-- 📚 Currently creating the **best Android roadmap on GitHub** for Tier-3 college students
+- 📚 Currently creating the **best Android roadmap on GitHub** 
 - 🎯 Goal: MAANG-level Android Engineering
 
 ---
