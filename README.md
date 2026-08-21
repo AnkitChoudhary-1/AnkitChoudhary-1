@@ -38,4 +38,4 @@
 ![Stats](https://github-readme-streak-stats.herokuapp.com?user=AnkitChoudhary-1&theme=default)
 ---
 
-📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/ankit-undefined-1a01783a5/) · [Email](ankitjaatphalswal@gmail.com)
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/ankit-choudhary-android/) · [Email](ankitjaatphalswal@gmail.com)
